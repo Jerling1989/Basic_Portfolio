@@ -88,6 +88,18 @@ body {
 	border-width: 3px;
 }
 
+.main-box {	
+	display: inline;
+	position: relative;
+	float: left;
+	width: 60%;
+	background-color: #eeeff3;
+	padding: 20px;
+	border: solid;
+	border-color: grey;
+	border-width: 3px;
+	margin-bottom: 20px;}
+
 #connect {
 	display: inline;
 	position: relative;
@@ -208,20 +220,6 @@ a:hover {
 
 
 /* CONTACT FORM */
-
-
-#contact {
-  display: inline;
-  position: relative;
-  float: left;
-  width: 60%;
-  background-color: #eeeff3;
-  padding: 20px;
-  border: solid;
-  border-color: grey;
-  border-width: 3px;
-}
-
 
 fieldset {
   border: medium none !important;
