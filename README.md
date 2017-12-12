@@ -4,5 +4,5 @@
 
 ![PORTFOLIO](assets/images/read_me/portfolio.png)
 
-![CONTACT](assets/images/read_me/contact/png)
+![CONTACT](assets/images/read_me/contact.png)
 
