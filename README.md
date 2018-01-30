@@ -1,6 +1,7 @@
 # Basic_Portfolio
+This is a very simple portfolio site I made with just HTML and CSS. It was done during a quick exercise at Rutgers to lay out some of the foundations of web design. The website is not mobile responsive, that feature was added to another repository.
 
-This is a simple portfolio site made with only HTML and CSS
+---
 
 - The first page the user will land on is the home or "about" page. It has a picture of me along with a description of who I am. It also has links to my GitHub, LinkedIn, and Stack Overflow accounts, as does every other page on this website.
 ![ABOUT](assets/images/read_me/about.png)
